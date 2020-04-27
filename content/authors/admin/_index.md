@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:shaurya@psu.edu".
+  link: mailto:shaurya@psu.edu  # For a direct email link, use "mailto:shaurya@psu.edu".
 - icon: linkedin
   icon_pack: fab
   link: https://linkedin.com/in/shaurya-rohatgi/
