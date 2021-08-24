@@ -24,8 +24,7 @@ date_format = "Jan 2006"
   location = "Seattle, WA"
   date_start = "2021-05-10"
   date_end = "2021-08-20"
-  description = "Worked with the S2 research team on modelling mentorship between coauthors"
-  
+  description = """Worked with the S2 research team on modelling mentorship between coauthors
   """
 
 [[experience]]
