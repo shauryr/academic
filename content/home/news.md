@@ -30,13 +30,13 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 April'22
-: S2AMP - S2 Analysys of MentorshiP was accepted in JCDL'22 in the late breaking and dataset track [[data]](https://github.com/allenai/S2AMP-data) - April'22
+- S2AMP - S2 Analysys of MentorshiP was accepted in JCDL'22 in the late breaking and dataset track [[data]](https://github.com/allenai/S2AMP-data) - April'22
 
 March'22
-: Accepted an internship offer from Allen AI for Summer'22 in Seattle, WA
+- Accepted an internship offer from Allen AI for Summer'22 in Seattle, WA
 
 December'21
-: **Building an Accessible, Usable, Scalable, and Sustainable Service for Scholarly Big Data** accepted in International 
+- **Building an Accessible, Usable, Scalable, and Sustainable Service for Scholarly Big Data** accepted in International 
 Conference on Big Data [[pdf]](https://www.cs.odu.edu/~jwu/downloads/pubs/wu-2021-bigdata/wu-2021-bigdata.pdf)
 
 
