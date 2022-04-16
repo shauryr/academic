@@ -10,9 +10,9 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 15
+weight: 20
 
-title: Hugo Academic Theme Demo
+title: Recent News
 subtitle:
 
 design:
@@ -28,10 +28,10 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-Welcome to the demo of the **academic resumé template** for Wowchemy, the Website Builder for Hugo.
+- Welcome to the demo of the **academic resumé template** for Wowchemy, the Website Builder for Hugo.
 
-[Explore similar templates](https://wowchemy.com/templates/)
+- [Explore similar templates](https://wowchemy.com/templates/)
 
-**Over 500,000 [Amazing Websites](https://wowchemy.com/) have Already Been Built with Wowchemy**
+- **Over 500,000 [Amazing Websites](https://wowchemy.com/) have Already Been Built with Wowchemy**
 
-**[Join](https://wowchemy.com/templates/) the Most Empowered Hugo Community**
+- **[Join](https://wowchemy.com/templates/) the Most Empowered Hugo Community**
