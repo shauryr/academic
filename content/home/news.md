@@ -27,8 +27,10 @@ design:
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---
-|   Date   |                                                                      News                                                                       |
-|:--------:|:-----------------------------------------------------------------------------------------------------------------------------------------------:|
-| April'22 | S2AMP - S2 Analysys of MentorshiP was accepted in JCDL'22 in the late breaking and dataset track [[data](https://github.com/allenai/S2AMP-data] |
-| March'22 |                                     Accepted an internship offer from Allen AI for Summer'22 in Seattle, WA                                     |
-| March'22 | **Building an Accessible, Usable, Scalable, and Sustainable Service for Scholarly Big Data** accepted in International  Conference on Big Data  |
+|     Date     |                                                                                                                  News                                                                                                                   |
+|:------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  April '22   |                                           S2AMP - S2 Analysys of MentorshiP was accepted in JCDL'22 in the late breaking and dataset track [ [data](https://github.com/allenai/S2AMP-data) ]                                            |
+|  March '22   |                                                                                 Accepted an internship offer from Allen AI for Summer'22 in Seattle, WA                                                                                 |
+| December '21 | **Building an Accessible, Usable, Scalable, and Sustainable Service for Scholarly Big Data** accepted in International Conference on Big Data [ [pdf](https://www.cs.odu.edu/~jwu/downloads/pubs/wu-2021-bigdata/wu-2021-bigdata.pdf) ] |
+
+[//]: # (| December '21 | **Building an Accessible, Usable, Scalable, and Sustainable Service for Scholarly Big Data** accepted in International Conference on Big Data [ [pdf]&#40;https://www.cs.odu.edu/~jwu/downloads/pubs/wu-2021-bigdata/wu-2021-bigdata.pdf&#41; ] |)
