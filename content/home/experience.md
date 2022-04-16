@@ -23,9 +23,10 @@ date_format = "Jan 2006"
   company_url = "https://allenai.org/"
   location = "Seattle, WA"
   date_start = "2021-05-10"
-  date_end = "2021-08-20"
+  date_end = ""
   description = """Worked with the S2 research team on modelling mentorship between coauthors
-  """
+https://github.com/allenai/S2AMP-data [code] 
+"""
 
 [[experience]]
   title = "Graduate Research Assistant"
