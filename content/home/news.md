@@ -28,10 +28,16 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-- Welcome to the demo of the **academic resumé template** for Wowchemy, the Website Builder for Hugo.
+- S2AMP - S2 Analysys of MentorshiP was accepted in JCDL'22 in the late breaking and dataset track [data](https://github.com/allenai/S2AMP-data) - April'22
+- Accepted an internship offer from Allen AI for Summer'22 in Seattle, WA - March'22
+- Building an Accessible, Usable, Scalable, and Sustainable Service for Scholarly Big Data accepted in International 
+Conference on Big Data [pdf](https://www.cs.odu.edu/~jwu/downloads/pubs/wu-2021-bigdata/wu-2021-bigdata.pdf) - December'21
 
-- [Explore similar templates](https://wowchemy.com/templates/)
 
-- **Over 500,000 [Amazing Websites](https://wowchemy.com/) have Already Been Built with Wowchemy**
+[//]: # (- [Explore similar templates]&#40;https://wowchemy.com/templates/&#41;)
 
-- **[Join](https://wowchemy.com/templates/) the Most Empowered Hugo Community**
+[//]: # ()
+[//]: # (- **Over 500,000 [Amazing Websites]&#40;https://wowchemy.com/&#41; have Already Been Built with Wowchemy**)
+
+[//]: # ()
+[//]: # (- **[Join]&#40;https://wowchemy.com/templates/&#41; the Most Empowered Hugo Community**)
