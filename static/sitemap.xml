@@ -6,72 +6,72 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
 <url>
+  <loc>https://shaurya-bio.netlify.app/</loc>
+  <lastmod>2022-09-01T12:54:37+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
+  <loc>https://shaurya-bio.netlify.app/files/cv.pdf</loc>
+  <lastmod>2022-09-01T12:54:37+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
+  <loc>https://shaurya-bio.netlify.app/post/getting-started/</loc>
+  <lastmod>2022-09-01T12:54:37+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
+  <loc>https://shaurya-bio.netlify.app/category/bots/</loc>
+  <lastmod>2022-09-01T12:54:37+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://shaurya-bio.netlify.app/publication/</loc>
-<lastmod>2022-09-01T12:54:37+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://shaurya-bio.netlify.app/publication/</loc>
+  <lastmod>2022-09-01T12:54:37+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>
-https://shaurya-bio.netlify.app/publication/rohatgi-2020-covidseer/
-</loc>
-<lastmod>2022-09-01T12:54:37+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://shaurya-bio.netlify.app/publication/rohatgi-2020-covidseer/</loc>
+  <lastmod>2022-09-01T12:54:37+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>
-https://shaurya-bio.netlify.app/publication/kim-2019-hybrid/
-</loc>
-<lastmod>2022-09-01T12:54:37+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://shaurya-bio.netlify.app/publication/kim-2019-hybrid/</loc>
+  <lastmod>2022-09-01T12:54:37+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>
-https://shaurya-bio.netlify.app/publication/mansouri-2019-tangent/
-</loc>
-<lastmod>2022-09-01T12:54:37+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://shaurya-bio.netlify.app/publication/mansouri-2019-tangent/</loc>
+  <lastmod>2022-09-01T12:54:37+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>
-https://shaurya-bio.netlify.app/publication/wu-2018-citeseerx/
-</loc>
-<lastmod>2022-09-01T12:54:37+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://shaurya-bio.netlify.app/publication/wu-2018-citeseerx/</loc>
+  <lastmod>2022-09-01T12:54:37+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>
-https://shaurya-bio.netlify.app/publication/rohatgi-2017-deepnorm/
-</loc>
-<lastmod>2022-09-01T12:54:37+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://shaurya-bio.netlify.app/publication/rohatgi-2017-deepnorm/</loc>
+  <lastmod>2022-09-01T12:54:37+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://shaurya-bio.netlify.app/tag/projects/</loc>
-<lastmod>2022-09-01T12:54:37+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://shaurya-bio.netlify.app/tag/projects/</loc>
+  <lastmod>2022-09-01T12:54:37+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>
-https://shaurya-bio.netlify.app/publication/patidar-2016-activity/
-</loc>
-<lastmod>2022-09-01T12:54:37+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://shaurya-bio.netlify.app/publication/patidar-2016-activity/</loc>
+  <lastmod>2022-09-01T12:54:37+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>
-https://shaurya-bio.netlify.app/publication/kandimalla-2021-large/
-</loc>
-<lastmod>2022-09-01T12:54:37+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://shaurya-bio.netlify.app/publication/kandimalla-2021-large/</loc>
+  <lastmod>2022-09-01T12:54:37+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
+
 
 </urlset>
