@@ -73,7 +73,8 @@ user_groups:
 
 I'm a fifth-year Ph.D. student at the [College of Information Sciences and Technology](https://ist.psu.edu/), The Pennsylvania State University. I am advised by [Prof. C.Lee Giles](https://clgiles.ist.psu.edu/). I am a member of [The Intelligent Information Systems Research Laboratory](http://iis.ist.psu.edu/) in which I work specifically on the [CiteSeerX](http://citeseerx.ist.psu.edu/index) [project](http://csxstatic.ist.psu.edu/). 
 
-Here, with the help of [Dr. Jian Wu](https://fanchyna.wixsite.com/jianwu) I am responsible for research, crawling, updating the index and maintaining the repository of academic documents at scale(>20M documents).  My thesis is on building advanced indexing and retrieval techniques for Math Search. This work is under the project [MathSeer](https://www.cs.rit.edu/~dprl/mathseer/) on which I am actively working. 
+Here, with the help of [Dr. Jian Wu](https://fanchyna.wixsite.com/jianwu) I am responsible for research, crawling, updating the index and maintaining the repository of academic documents at scale(>20M documents).  My thesis is on building advanced indexing and retrieval techniques for Math Search. This work is under the project [MathSeer](https://www.cs.rit.edu/~dprl/mathseer/) on which I am actively working with the help of [Dr. Richard Zanibbi](https://www.cs.rit.edu/~rlaz/). 
 
+I have had the unique honor of working with great people at [Allen AI](https://allenai.org/) in the [Semantic Scholar Team](https://www.semanticscholar.org/) where I was mentored by [Sergey Feldman](https://www.data-cowboys.com/) and [Doug Downey](https://users.cs.northwestern.edu/~ddowney/).
 Previously, I have worked with [Dr. Puneet Agarwal](https://www.linkedin.com/in/agarwalpuneet/) at the Tata Innovation Labs as a Researcher. 
 
