@@ -75,7 +75,7 @@ user_groups:
 - Visitors
 ---
 
-🎓🚀 I am an incoming Computational Scientist at the Research Computing Centre at the University of Chicago 🏫, with a passion for skiing ⛷️ in the winter and playing tennis 🎾 in the summer.
+🎓🚀 I am a Computational Scientist at the Research Computing Centre at the University of Chicago 🏫, with a passion for skiing ⛷️ in the winter and playing tennis 🎾 in the summer.
 
 I earned my Ph.D. at the [College of Information Sciences and Technology](https://ist.psu.edu/), The Pennsylvania State University, under the guidance of [Prof. C. Lee Giles](https://clgiles.ist.psu.edu/) 🎓✨. As a member of [The Intelligent Information Systems Research Laboratory](http://iis.ist.psu.edu/), I contributed extensively to the [CiteSeerX](http://citeseerx.ist.psu.edu/index) [project](http://csxstatic.ist.psu.edu/) 📚🔬.
 
@@ -85,5 +85,5 @@ My thesis centered on building advanced indexing and retrieval techniques for Ma
 
 I've had the unique honor of working alongside fantastic people at [Allen AI](https://allenai.org/) in the [Semantic Scholar Team](https://www.semanticscholar.org/), where I received mentorship from [Sergey Feldman](https://www.data-cowboys.com/) and [Doug Downey](https://users.cs.northwestern.edu/~ddowney/) 🌟🤖. I'm also very proud of being the creator of S2QA Semantic Scholar Question Answering—a first-of-its-kind generative AI QA system that can cite papers using GPT-4 🧩🤯.
 
-Previously, my professional journey as a researcher led me to the Tata Innovation Labs, where I had the opportunity to work with [Dr. Puneet Agarwal](https://www.linkedin.com/in/agarwalpuneet/) 🧪🚀.I am an incoming Computational Sceintist at the Research Computing Centre at University of Chicago. 
+Previously, my professional journey as a researcher led me to the Tata Innovation Labs, where I had the opportunity to work with [Dr. Puneet Agarwal](https://www.linkedin.com/in/agarwalpuneet/) 🧪🚀.
 
