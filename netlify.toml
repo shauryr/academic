@@ -24,3 +24,9 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
+[[redirects]]
+  from = "/*"
+  to = "https://shaurya.ai"
+  status = 301
+  force = true
